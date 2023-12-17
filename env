@@ -1,0 +1,4 @@
+MONGO_URI=mongodb+srv://nahummr29:<password>@cluster0.tla1zhk.mongodb.net/
+PORT=3000
+GITHUB_USERNAME=NahumMartinezr
+GITHUB_TOKEN=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
